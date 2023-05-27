@@ -42,16 +42,16 @@ This project will utilize Python's data science libraries (e.g, NumPy, Pandas, M
 ## Set-up
 
 - create virtual env
-  - >> python3.11 -m venv .venv
+  - `> python3.11 -m venv .venv`
 - start virtual env
-  - >> source .venv/bin/activate
+  - `> source .venv/bin/activate`
 - install JupyterLab
-  - >> pip install jupyterlab
+  - `> pip install jupyterlab`
 - install Python libraries
-  - >> pip install numpy pandas matplotlib openpyxl
+  - `> pip install -r requirements.txt`
   - or
-    - >> pip install -r requirements.txt
+    - `> pip install numpy pandas matplotlib openpyxl seaborn`
 - run JupyterLab in your browser
-  - >> jupyter-lab
+  - `> jupyter-lab`
   - or
-    - >> python -m jupyterlab
+    - `> python -m jupyterlab`
