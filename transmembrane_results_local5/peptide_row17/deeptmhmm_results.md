@@ -5,16 +5,16 @@ You can download the probabilities used to generate this plot [here](Type:_probs
 ### Predicted Topologies
 ```
 >Type: | GLOB
-NILSFSEQEVVDCSK
-IIIIIIIIIIIIIII
+NTSYWEIGENVYLK
+IIIIIIIIIIIIII
 
 ```
 
 
 ```
 ##gff-version 3
-# Type: Length: 15
+# Type: Length: 14
 # Type: Number of predicted TMRs: 0
-Type:	inside	1	15				
+Type:	inside	1	14				
 
 ```
