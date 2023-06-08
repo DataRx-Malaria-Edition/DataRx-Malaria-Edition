@@ -1,0 +1,6 @@
+##gff-version 3
+# Type: Length: 25
+# Type: Number of predicted TMRs: 1
+Type:	outside	1	2				
+Type:	TMhelix	3	23				
+Type:	inside	24	25				
