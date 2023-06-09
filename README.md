@@ -18,11 +18,11 @@ In their research working to find a cure for Malaria, researchers at Washington 
 
 This project will utilize Python's data science libraries (e.g, NumPy, Pandas, Matplotlib, etc.) to explore and analyze the data from the two trials, and attempt to answer the following questions:
 
-- [ ] What proteins are enriched in SPP vs. NAT?
-- [ ] Do protein modifications differ between SPP vs. NAT?
-- [ ] Are specific pathways/GO terms enriched in SPP vs. NAT?
-- [ ] In what peptides does the previous amino acid not = K or R... does this differ between SPP vs. NAT?
-- [ ] Are transmembrane domains enriched in the SPP vs. NAT peptides?
+- [X] What proteins are enriched in SPP vs. NAT?
+- [X] Do protein modifications differ between SPP vs. NAT?
+- [X] Are specific pathways/GO terms enriched in SPP vs. NAT?
+- [X] In what peptides does the previous amino acid not = K or R... does this differ between SPP vs. NAT?
+- [X] Are transmembrane domains enriched in the SPP vs. NAT peptides?
 
 ## Vision
 
@@ -49,8 +49,6 @@ This project will utilize Python's data science libraries (e.g, NumPy, Pandas, M
   - `> pip install jupyterlab`
 - install Python libraries
   - `> pip install -r requirements.txt`
-  - or
-    - `> pip install numpy pandas matplotlib openpyxl seaborn`
 - run JupyterLab in your browser
   - `> jupyter-lab`
   - or
