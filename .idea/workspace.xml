@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="72ac9390-6e9e-4c1d-acbc-33af2fbc7e3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataRxMalariaEdition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
     <list default="true" id="72ac9390-6e9e-4c1d-acbc-33af2fbc7e3c" name="Changes" comment="" />
+>>>>>>> 63a363156e3114b4550f388e710a25b65e7d740a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +40,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\lauren\projects\courses\401\DataRx-Malaria-Edition" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +54,17 @@
       <option name="presentableId" value="Default" />
       <updated>1685206726960</updated>
       <workItem from="1685206731262" duration="1399000" />
+<<<<<<< HEAD
       <workItem from="1685210061073" duration="1000000" />
+      <workItem from="1685216910158" duration="2709000" />
+      <workItem from="1685223219045" duration="637000" />
+      <workItem from="1685231958045" duration="312000" />
+      <workItem from="1685233253425" duration="18000" />
+      <workItem from="1685233376888" duration="36000" />
+      <workItem from="1685233505043" duration="28000" />
+=======
+      <workItem from="1685210061073" duration="2196000" />
+>>>>>>> 63a363156e3114b4550f388e710a25b65e7d740a
     </task>
     <servers />
   </component>

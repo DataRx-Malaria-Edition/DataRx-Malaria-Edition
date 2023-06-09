@@ -1,0 +1,5 @@
+##gff-version 3
+# Type: Length: 18
+# Type: Number of predicted TMRs: 0
+Type:	signal	1	17				
+Type:	outside	18	18				
